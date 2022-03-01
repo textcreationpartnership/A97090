@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem occasioned by the sudden death of the Reverend Dr. William Bates. Humbly offer'd to his memory</title>
+            <author>Walwyn, Herbert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97090</idno>
+            <idno type="STC">Wing W676</idno>
+            <idno type="STC">ESTC R232333</idno>
+            <idno type="EEBO-CITATION">99897708</idno>
+            <idno type="PROQUEST">99897708</idno>
+            <idno type="VID">137646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137646)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2522:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem occasioned by the sudden death of the Reverend Dr. William Bates. Humbly offer'd to his memory</title>
+                  <author>Walwyn, Herbert.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and sold by A. Baldwin, near the Oxford-Arms in Warwick-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Herbert Walwyn.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bates, William, 1625-1699 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137646:1"/>
+            <!-- PDF PAGE 125 -->
+            <pb facs="tcp:137646:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 125 -->
+            <p>A POEM Occaſioned by the Sudden Death OF THE REVEREND Dr. <hi>WILLIAM BATES.</hi>
+            </p>
+            <p>Humbly Offer'd to His Memory.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, and Sold by <hi>A. Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-lane.</hi> 
+               <date>
+                  <add>13. Januar.</add>
+               </date> 1700.<date>
+                  <add>/699</add>
+               </date>
+            </p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:137646:2"/>
+            <!-- PDF PAGE 126 -->
+            <head>Advertiſement.</head>
+            <p>THE following Verſes (which were Written an <hi>Agony</hi> of Juſt Sorrow for ſo Great a Dea<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve been ever ſince delay'd, in Expectation of a Be<gap reason="illegible: bleedthrough" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rformance on the Subject.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:137646:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 126 -->
+            <head>A POEM On the Reverend Dr. William Bates.</head>
+            <lg>
+               <l>OFT does the Afflicted <hi>Muſe</hi> attempt to Sing</l>
+               <l>Great <hi>Bates</hi> thy <hi>Death,</hi> but flags th' endea<g ref="char:EOLhyphen"/>vouring Wing:</l>
+               <l>She knows not how to manage her Surprize,</l>
+               <l>Or let my <hi>Tongue</hi> take notice of my <hi>Eyes,</hi>
+               </l>
+               <l>But <hi>Artleſs</hi> Tears deſcend in Briny Showers,</l>
+               <l>And quench <hi>Her</hi> Vital Fire, and drown Her Powers.</l>
+               <l>Grief, heavy Grief, ſits on my lab'ring Breaſt,</l>
+               <l>And will not let me <hi>Speak,</hi> nor let me <hi>Reſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O that with Sorrow equal to his Worth,</l>
+               <l>I could dilate the <hi>Tidings</hi> round the Earth!</l>
+               <l>
+                  <hi>Albion</hi> ſhould hear, and every diſtant <hi>State,</hi>
+               </l>
+               <l>Within the Univerſal Bill of <hi>Fate,</hi>
+               </l>
+               <l>Should know that <hi>Bates,</hi> th' Immortal <hi>Bates,</hi> is flown</l>
+               <l>All on a ſudden! In a Moment gone!</l>
+            </lg>
+            <lg>
+               <l>Some mighty <hi>Buſineſs</hi> wanted him in Heaven,</l>
+               <l>Something wherein his <hi>Judgment</hi> muſt be given,</l>
+               <l>How to Exalt <hi>their</hi> Maker's endleſs Praiſe,</l>
+               <l>And from his <hi>Attributes</hi> new Wonder raiſe.</l>
+               <lg>
+                  <l>Oft had the liſt'ning <hi>Angels</hi> heard him <hi>Teach</hi>
+                  </l>
+                  <l>Theſe Things on <hi>Earth</hi> in their Seraphick Speech,</l>
+                  <l>And now to <hi>Heav'n</hi> their Voted <hi>Member</hi> fetch.</l>
+               </lg>
+               <lg>
+                  <pb n="2" facs="tcp:137646:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 127 -->
+                  <l>His ripen'd <hi>Virtues</hi> could no longer ſtay,</l>
+                  <l>But in <hi>Elijah</hi>'s <hi>Chariot</hi> haſte away,</l>
+                  <l>Without the Grievance of a ſlow <hi>Decay.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But who, Ah! who can follow in his Steps?</l>
+               <l>
+                  <hi>Who</hi> can renew the <hi>Go<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> for which <hi>he</hi> weeps?</l>
+               <l>I fear his<note n="†" place="margin">2 King. 2.14.</note> 
+                  <hi>Mantle</hi> is not to be found,</l>
+               <l>To ſtop the rapid <hi>Streams</hi> in which we're drown'd:</l>
+               <l>This is our laſting Argument of <hi>Grief,</hi>
+               </l>
+               <l>That <hi>Sorrow now muſt be its own Relief:</hi>
+               </l>
+               <l>And ev'n our <hi>Tears,</hi> Great <hi>Man,</hi> fall ſhort of thee,</l>
+               <l>We want thy <hi>Self</hi> to write thy <hi>Elegy:</hi>
+               </l>
+               <l>Thy tuneful <hi>Accents,</hi> and thy flowing <hi>Senſe,</hi>
+               </l>
+               <l>Majeſtick <hi>Stile,</hi> prevailing <hi>Eloquence;</hi>
+               </l>
+               <lg>
+                  <l>Thoſe Thouſand Beauties which for Ever ſhine</l>
+                  <l>Throughout thy <hi>Works,</hi> and prove them to be <hi>thine,</hi>
+                  </l>
+                  <l>(That is) which prove them to be all <hi>Divine,</hi>
+                  </l>
+               </lg>
+               <l>Thoſe <hi>Gifts</hi> we want, but thoſe with thee retired,</l>
+               <l>And we are by a Gloomy <hi>Power</hi> inſpired;</l>
+               <l>A Mournful <hi>Genius</hi> revels in our Thought,</l>
+               <l>And our ſwoln <hi>Lungs</hi> with blackeſt Sighs are fraught:</l>
+               <l>For thee we ſtruggle with perpetual Sighs,</l>
+               <l>Storms in our Hearts, and Flouds upon our Eyes,</l>
+               <l>And not a <hi>Muſe</hi> can regulate our Woe,</l>
+               <l>Or lend aſſiſtance to one painful <hi>Throe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Far off methinks I ſee the drooping <hi>Nine,</hi>
+               </l>
+               <l>In ſad Conſult about the Great <hi>Deſign;</hi>
+               </l>
+               <l>
+                  <hi>Each</hi> taking to her ſelf her ſeveral Part,</l>
+               <l>In order to reduce tumultuous <hi>Woe</hi> to <hi>Art;</hi>
+               </l>
+               <l>But all in vain, their <hi>Vehicle</hi> is Dead;</l>
+               <l>And their Conceived <hi>Thoughts,</hi> are Thoughts that cann't be <hi>ſaid.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137646:3"/>
+            <!-- PDF PAGE 127 -->
+         </div>
+      </body>
+   </text>
+</TEI>
